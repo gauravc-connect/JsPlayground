@@ -20,7 +20,7 @@ function mostFrequentChar (str){
    console.log("key =>", key);
    console.log("count =>", count);
 
-   const entries = Object.entries(charObj).sort().;
+   const entries = Object.entries(charObj).sort();
 
 
 

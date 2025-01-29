@@ -13,7 +13,7 @@ class Vehicle {
 
 class Car extends Vehicle {
     drive(){
-        super.drive();
+        //super.drive();
         console.log("drive it on the road");
     }
 }
